@@ -1,5 +1,5 @@
 # gopool
-
+![gopool](../../imgs/gopool_logo.png)
 ## Introduction
 `gopool` 是一个高性能的 goroutine pool，目前是复用 goroutine 并限制 goroutine 的数量。
 
