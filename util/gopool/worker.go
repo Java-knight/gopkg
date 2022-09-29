@@ -2,7 +2,7 @@ package gopool
 
 import (
 	"fmt"
-	"gopkg/util/logger"
+	"github.com/Java-knight/gopkg/util/logger"
 	"runtime/debug"
 	"sync"
 )
